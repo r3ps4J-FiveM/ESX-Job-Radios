@@ -4,6 +4,9 @@ Radios for different jobs.
 I did NOT create the Code. I only edited the [esx_radio](https://github.com/danini1705/esx_radio) code.
 If you want me to remove this hit me up in the discord server linked below.
 
+Default button to speak is `CAPS`, you can change this very easily if you have a very little bit of experience with FiveM plugins and such.
+You do need to press your push to talk button while pressing `CAPS` or use voice activation. In roleplay push to talk is way better tho.
+
 # Requirements:
 The job for which you will get the radio.
 
